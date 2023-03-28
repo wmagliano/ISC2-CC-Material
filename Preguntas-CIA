@@ -1,0 +1,65 @@
+¿Qué es la triada CIA de seguridad? R: La triada CIA es un modelo que describe los tres elementos esenciales de la seguridad de la información: confidencialidad, integridad y disponibilidad.
+
+¿Qué significa la confidencialidad en la triada CIA? R: La confidencialidad se refiere a la protección de la información para que solo sea accesible para las personas autorizadas.
+
+¿Qué es la integridad en la triada CIA? R: La integridad se refiere a la protección de la información para que no se altere sin autorización.
+
+¿Qué es la disponibilidad en la triada CIA? R: La disponibilidad se refiere a la protección de la información para que esté disponible y accesible cuando se necesita.
+
+¿Por qué es importante la triada CIA? R: Es importante porque permite identificar los objetivos principales de la seguridad de la información.
+
+¿Qué técnicas se pueden utilizar para garantizar la confidencialidad? R: Las técnicas incluyen el cifrado de datos, la autenticación y la autorización de usuarios y la implementación de políticas de acceso a la información.
+
+¿Qué técnicas se pueden utilizar para garantizar la integridad? R: Las técnicas incluyen la validación de datos, la detección de cambios y la implementación de políticas de control de versiones.
+
+¿Qué técnicas se pueden utilizar para garantizar la disponibilidad? R: Las técnicas incluyen la implementación de políticas de redundancia, la protección contra fallos de hardware y la implementación de planes de recuperación de desastres.
+
+¿Cómo se pueden garantizar la confidencialidad y la integridad de la información al mismo tiempo? R: Algunas técnicas incluyen el uso de cifrado y la autenticación y autorización de usuarios.
+
+¿Por qué es importante asegurar la confidencialidad de la información personal? R: Es importante porque la información personal puede ser utilizada para el robo de identidad y otros delitos.
+
+¿Qué es la autenticación de usuario? R: La autenticación de usuario es el proceso de confirmar la identidad de un usuario antes de permitir el acceso a la información.
+
+¿Qué es la autorización de usuario? R: La autorización de usuario es el proceso de determinar qué acciones pueden realizar los usuarios autorizados.
+
+¿Cómo se puede garantizar la integridad de los datos? R: Se puede garantizar la integridad de los datos mediante la implementación de políticas de control de versiones y la validación de datos.
+
+¿Por qué es importante proteger la disponibilidad de los sistemas y datos? 
+R: Es importante porque si los sistemas y datos no están disponibles cuando se necesitan, puede haber una pérdida significativa de productividad y oportunidades de negocio.
+¿Qué es la redundancia de datos? 
+R: La redundancia de datos es la práctica de almacenar copias de los datos en más de un lugar para garantizar su disponibilidad.
+
+¿Cómo se puede proteger la integridad de los datos? 
+R: Se puede proteger la integridad de los datos mediante el uso de técnicas como el cifrado de datos y la detección de cambios en los datos.
+
+¿Qué significa la sigla CIA en términos de seguridad de la información? 
+Respuesta: La sigla CIA representa la triada CIA, que son las iniciales de Confidencialidad, Integridad y Disponibilidad.
+
+¿Qué es la confidencialidad en términos de seguridad de la información? 
+Respuesta: La confidencialidad se refiere a la protección de la información para asegurar que solo se pueda acceder a ella por personas autorizadas.
+
+¿Qué es la integridad en términos de seguridad de la información? 
+Respuesta: La integridad se refiere a la protección de la información para asegurar que sea precisa y completa y que no haya sido alterada de manera no autorizada.
+
+¿Qué es la disponibilidad en términos de seguridad de la información? 
+Respuesta: La disponibilidad se refiere a la protección de la información para asegurar que esté disponible y accesible para su uso por personas autorizadas cuando sea necesario.
+
+¿Por qué es importante la confidencialidad en la seguridad de la información? 
+Respuesta: La confidencialidad es importante porque protege la información de ser vista o utilizada por personas no autorizadas, lo que puede tener graves consecuencias para individuos y organizaciones.
+
+¿Qué puede poner en riesgo la integridad de la información? 
+Respuesta: La integridad de la información puede verse comprometida por diversos factores, como errores humanos, ataques malintencionados o problemas técnicos.
+
+¿Por qué es importante la integridad en la seguridad de la información?Respuesta: La integridad es importante porque asegura que la información sea precisa y confiable, lo que es esencial para la toma de decisiones y para la confianza en la información.
+¿Cómo se puede asegurar la disponibilidad de la información?Respuesta: La disponibilidad de la información se puede asegurar mediante la implementación de medidas de protección de la infraestructura tecnológica, la gestión adecuada de los sistemas y la prevención de ataques malintencionados.
+
+¿Qué medidas pueden ayudar a proteger la confidencialidad de la información?Respuesta: Algunas medidas para proteger la confidencialidad de la información incluyen la implementación de controles de acceso, el cifrado de la información sensible y la concienciación y formación del personal sobre el manejo de información confidencial.
+
+¿Qué medidas pueden ayudar a proteger la integridad de la información? 
+Respuesta: Algunas medidas para proteger la integridad de la información incluyen la implementación de controles de acceso y de gestión de cambios, la utilización de sistemas de detección de intrusiones y la revisión y verificación de la exactitud de la información.
+
+¿Qué medidas pueden ayudar a asegurar la disponibilidad de la información? 
+Respuesta: Algunas medidas para asegurar la disponibilidad de la información incluyen la implementación de sistemas de copias de seguridad, la monitorización de la disponibilidad del sistema y la planificación adecuada de la capacidad y escalabilidad del sistema.
+
+¿Qué técnicas se utilizan para la protección de la información confidencial? 
+Respuesta: Las técnicas para la protección de la información confidencial incluyen el cifrado, la segmentación de la red, la gestión de identidades y accesos y la autenticación.
